@@ -3,5 +3,5 @@
 ###### Nguyen Vu Tuong[0009-0001-7506-0126]
 ###### Independent Researcher, Vietnam 
 ###### challesvu@gmail.com
-###### Keywords: ViT5, Medical Question Answering, Fine-tuning, Healthcare, Vi-etnamese language models.
+###### Keywords: ViT5, Medical Question Answering, Fine-tuning, Healthcare, Vietnamese language models.
 ###### Experience at huggingface.co/spaces/tuongvxx1/medBot4_2
